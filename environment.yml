@@ -1,0 +1,10 @@
+name: dsiad-notebooks-environment
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - graphviz
+  - python-graphviz
+  - seaborn
